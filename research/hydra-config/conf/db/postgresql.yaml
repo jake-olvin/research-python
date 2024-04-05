@@ -1,0 +1,4 @@
+driver: postgresql
+user: pg-user
+pass: drowssap
+timeout: 20
